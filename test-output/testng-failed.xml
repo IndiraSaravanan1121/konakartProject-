@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.Konakart.Testscript.ValidateProductOutcome">
+        <methods>
+          <include name="setup"/>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="validateproductOutcome"/>
+        </methods>
+      </class> <!-- com.Konakart.Testscript.ValidateProductOutcome -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
